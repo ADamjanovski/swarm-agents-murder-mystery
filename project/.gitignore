@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+murder_mystery/games/game_*/
+murder_mystery/stories/story_*/
+images/*
+frontend/.tts-key
+frontend/.tts-cache/
+.ruff_cache

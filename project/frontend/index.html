@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Murder Mystery — Investigation Replay</title>
+
+  <!-- Fonts: cinematic display, clean body, typewriter tags, handwritten notes -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600;700&family=Inter:wght@400;500;600;700&family=Special+Elite&family=Caveat:wght@500;600;700&display=swap"
+    rel="stylesheet" />
+
+  <!-- Tailwind Play CDN — no build step for a static playback tool this size -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            noir: {
+              950: '#100d0a', 900: '#16130f', 850: '#1c1813',
+              800: '#221d16', 700: '#2b2419', line: '#3a3227',
+            },
+            cork: { DEFAULT: '#b3823f', dark: '#8c5f2c' },
+            paper: { DEFAULT: '#f2e7d1', edge: '#d9c8a4' },
+            crimson: { DEFAULT: '#c22a2a', bright: '#e6423b' },
+            gold: { DEFAULT: '#d8ab54', bright: '#f0c876' },
+            private: { DEFAULT: '#8f7ec8', card: '#e2e7ef', ink: '#3d3560' },
+          },
+          fontFamily: {
+            display: ['Oswald', 'sans-serif'],
+            body: ['Inter', 'sans-serif'],
+            type: ['"Special Elite"', 'monospace'],
+            hand: ['Caveat', 'cursive'],
+          },
+        },
+      },
+    };
+  </script>
+
+  <link rel="stylesheet" href="./css/styles.css" />
+</head>
+<body class="font-body">
+  <!-- The entire UI is rendered here by render() as a pure function of state. -->
+  <div id="app" class="h-screen w-screen"></div>
+
+  <script type="module" src="./js/main.js"></script>
+</body>
+</html>

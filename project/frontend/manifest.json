@@ -1,0 +1,644 @@
+{
+  "images": {
+    "andrej": "andrej.png",
+    "bojana": "bojana.png",
+    "david": "david.png",
+    "jana": "jana.jpeg",
+    "nasko": "nasko.png",
+    "oliver": "oliver.jpeg",
+    "viktor": "viktor.png",
+    "vladimir": "vladimir.jpeg"
+  },
+  "games": [
+    {
+      "id": "game_0014",
+      "title": "Cut to Black",
+      "storyId": "story_2",
+      "victim": {
+        "name": "Margot Vale",
+        "role": "director and producer of the film",
+        "found": "23:10 in the first-floor Color Suite (a badge-restricted room)",
+        "cause": "blunt-force trauma from a heavy glass award (the 'Golden Reel' trophy)"
+      },
+      "suspects": [
+        "David",
+        "Viktor",
+        "Oliver",
+        "Jana",
+        "Nasko",
+        "Vladimir",
+        "Bojana",
+        "Andrej"
+      ],
+      "suspectCount": 8,
+      "rounds": 3,
+      "eventCount": 270,
+      "hasEvaluation": false,
+      "trace": {
+        "sessionId": "Cut to Black - game_0014",
+        "tokens": 2769892,
+        "cost": {
+          "input": 0.4118709,
+          "output": 0.0144516,
+          "total": 0.426322499988
+        },
+        "sessionDuration": 1.356,
+        "countTraces": 2,
+        "tags": [
+          "murder-mystery",
+          "multi-agent",
+          "rag"
+        ],
+        "createdAt": "2026-07-22T17:29:23.517Z"
+      }
+    },
+    {
+      "id": "game_0015",
+      "title": "Cut to Black",
+      "storyId": "story_2",
+      "victim": {
+        "name": "Margot Vale",
+        "role": "director and producer of the film",
+        "found": "23:10 in the first-floor Color Suite (a badge-restricted room)",
+        "cause": "blunt-force trauma from a heavy glass award (the 'Golden Reel' trophy)"
+      },
+      "suspects": [
+        "David",
+        "Viktor",
+        "Oliver",
+        "Jana",
+        "Nasko",
+        "Vladimir",
+        "Bojana",
+        "Andrej"
+      ],
+      "suspectCount": 8,
+      "rounds": 3,
+      "eventCount": 274,
+      "hasEvaluation": false,
+      "trace": {
+        "sessionId": "Cut to Black - game_0015",
+        "tokens": 1626957,
+        "cost": {
+          "input": 0.2411094,
+          "output": 0.0117366,
+          "total": 0.252845999989
+        },
+        "sessionDuration": 0.647,
+        "countTraces": 1,
+        "tags": [
+          "murder-mystery",
+          "multi-agent",
+          "rag"
+        ],
+        "createdAt": "2026-07-22T18:38:35.549Z"
+      }
+    },
+    {
+      "id": "game_0016",
+      "title": "Cut to Black",
+      "storyId": "story_2",
+      "victim": {
+        "name": "Margot Vale",
+        "role": "director and producer of the film",
+        "found": "23:10 in the first-floor Color Suite (a badge-restricted room)",
+        "cause": "blunt-force trauma from a heavy glass award (the 'Golden Reel' trophy)"
+      },
+      "suspects": [
+        "David",
+        "Viktor",
+        "Oliver",
+        "Jana",
+        "Nasko",
+        "Vladimir",
+        "Bojana",
+        "Andrej"
+      ],
+      "suspectCount": 8,
+      "rounds": 3,
+      "eventCount": 145,
+      "hasEvaluation": false,
+      "trace": {
+        "sessionId": "Cut to Black - game_0016",
+        "tokens": 913366,
+        "cost": {
+          "input": 0.1345704,
+          "output": 0.009738,
+          "total": 0.144308399986
+        },
+        "sessionDuration": 0.634,
+        "countTraces": 1,
+        "tags": [
+          "murder-mystery",
+          "multi-agent",
+          "rag"
+        ],
+        "createdAt": "2026-07-22T19:10:13.919Z"
+      }
+    },
+    {
+      "id": "game_0017",
+      "title": "Cut to Black",
+      "storyId": "story_2",
+      "victim": {
+        "name": "Margot Vale",
+        "role": "director and producer of the film",
+        "found": "23:10 in the Floor-2 Color Suite",
+        "cause": "blunt-force trauma from the heavy glass 'Golden Reel' trophy"
+      },
+      "suspects": [
+        "David",
+        "Viktor",
+        "Oliver",
+        "Jana",
+        "Nasko",
+        "Vladimir",
+        "Bojana",
+        "Andrej"
+      ],
+      "suspectCount": 8,
+      "rounds": 3,
+      "eventCount": 145,
+      "hasEvaluation": false,
+      "trace": {
+        "sessionId": "Cut to Black - game_0017",
+        "tokens": 979085,
+        "cost": {
+          "input": 0.1444185,
+          "output": 0.009777,
+          "total": 0.154195499991
+        },
+        "sessionDuration": 0.645,
+        "countTraces": 1,
+        "tags": [
+          "murder-mystery",
+          "multi-agent",
+          "rag"
+        ],
+        "createdAt": "2026-07-22T19:44:20.660Z"
+      }
+    },
+    {
+      "id": "game_0018",
+      "title": "The Silent Gradient",
+      "storyId": "story_5",
+      "victim": {
+        "name": "Dr. Mira Kade",
+        "role": "program director and head evaluator",
+        "found": "collapsed at 01:12 beside the main demo stage after drinking ginger tea",
+        "cause": "aconitine poisoning"
+      },
+      "suspects": [
+        "Andrej",
+        "Nasko",
+        "Bojana",
+        "David",
+        "Oliver",
+        "Viktor",
+        "Vladimir",
+        "Jana"
+      ],
+      "suspectCount": 8,
+      "rounds": 3,
+      "eventCount": 142,
+      "hasEvaluation": false,
+      "trace": {
+        "sessionId": "The Silent Gradient - game_0018",
+        "tokens": 933877,
+        "cost": {
+          "input": 0.1378716,
+          "output": 0.0088398,
+          "total": 0.146711399984
+        },
+        "sessionDuration": 0.632,
+        "countTraces": 1,
+        "tags": [
+          "murder-mystery",
+          "multi-agent",
+          "rag"
+        ],
+        "createdAt": "2026-07-22T19:56:02.875Z"
+      }
+    },
+    {
+      "id": "game_0019",
+      "title": "Commit and Push",
+      "storyId": "story_4",
+      "victim": {
+        "name": "Dr. Lena Ostrom",
+        "role": "head judge and title sponsor of the hackathon",
+        "found": "03:22 in the Floor-4 Judging Room (a badge-restricted room)",
+        "cause": "blunt-force trauma from a heavy acrylic 'Best Hack' award"
+      },
+      "suspects": [
+        "Andrej",
+        "Nasko",
+        "Bojana",
+        "David",
+        "Oliver",
+        "Viktor",
+        "Vladimir",
+        "Jana"
+      ],
+      "suspectCount": 8,
+      "rounds": 3,
+      "eventCount": 145,
+      "hasEvaluation": false,
+      "trace": {
+        "sessionId": "Commit and Push - game_0019",
+        "tokens": 976177,
+        "cost": {
+          "input": 0.14401185,
+          "output": 0.0096588,
+          "total": 0.153670649983
+        },
+        "sessionDuration": 0.631,
+        "countTraces": 1,
+        "tags": [
+          "murder-mystery",
+          "multi-agent",
+          "rag"
+        ],
+        "createdAt": "2026-07-23T02:50:09.085Z"
+      }
+    },
+    {
+      "id": "game_0022",
+      "title": "The Silent Gradient",
+      "storyId": "story_5",
+      "victim": {
+        "name": "Dr. Mira Kade",
+        "role": "program director and head evaluator",
+        "found": "collapsed at 01:12 beside the main demo stage after drinking ginger tea",
+        "cause": "aconitine poisoning"
+      },
+      "suspects": [
+        "Andrej",
+        "Nasko",
+        "Bojana",
+        "David",
+        "Oliver",
+        "Viktor",
+        "Vladimir",
+        "Jana"
+      ],
+      "suspectCount": 8,
+      "rounds": 3,
+      "eventCount": 145,
+      "hasEvaluation": true,
+      "trace": {
+        "sessionId": "The Silent Gradient - game_0022",
+        "tokens": 1063740,
+        "cost": {
+          "input": 0.15628545,
+          "output": 0.0131022,
+          "total": 0.169387649989
+        },
+        "sessionDuration": 0.657,
+        "countTraces": 1,
+        "tags": [
+          "murder-mystery",
+          "multi-agent",
+          "rag"
+        ],
+        "createdAt": "2026-07-23T06:05:35.076Z"
+      }
+    },
+    {
+      "id": "game_0023",
+      "title": "The Silent Gradient",
+      "storyId": "story_5",
+      "victim": {
+        "name": "Dr. Mira Kade",
+        "role": "program director and head evaluator",
+        "found": "collapsed at 01:12 beside the main demo stage after drinking ginger tea",
+        "cause": "aconitine poisoning"
+      },
+      "suspects": [
+        "Andrej",
+        "Nasko",
+        "Bojana",
+        "David",
+        "Oliver",
+        "Viktor",
+        "Vladimir",
+        "Jana"
+      ],
+      "suspectCount": 8,
+      "rounds": 3,
+      "eventCount": 153,
+      "hasEvaluation": true,
+      "trace": {
+        "sessionId": "The Silent Gradient - game_0023",
+        "tokens": 1021952,
+        "cost": {
+          "input": 0.15072945,
+          "output": 0.0102534,
+          "total": 0.160982849981
+        },
+        "sessionDuration": 0.655,
+        "countTraces": 1,
+        "tags": [
+          "murder-mystery",
+          "multi-agent",
+          "rag"
+        ],
+        "createdAt": "2026-07-23T07:15:11.475Z"
+      }
+    },
+    {
+      "id": "game_0024",
+      "title": "The Silent Gradient",
+      "storyId": "story_5",
+      "victim": {
+        "name": "Dr. Mira Kade",
+        "role": "program director and head evaluator",
+        "found": "collapsed at 01:12 beside the main demo stage after drinking ginger tea",
+        "cause": "aconitine poisoning"
+      },
+      "suspects": [
+        "Andrej",
+        "Nasko",
+        "Bojana",
+        "David",
+        "Oliver",
+        "Viktor",
+        "Vladimir",
+        "Jana"
+      ],
+      "suspectCount": 8,
+      "rounds": 2,
+      "eventCount": 112,
+      "hasEvaluation": true,
+      "trace": {
+        "sessionId": "The Silent Gradient - game_0024",
+        "tokens": 533397,
+        "cost": {
+          "input": 0.07807845,
+          "output": 0.0077244,
+          "total": 0.085802849987
+        },
+        "sessionDuration": 0.493,
+        "countTraces": 1,
+        "tags": [
+          "murder-mystery",
+          "multi-agent",
+          "rag"
+        ],
+        "createdAt": "2026-07-23T07:31:17.660Z"
+      }
+    },
+    {
+      "id": "game_0025",
+      "title": "The Silent Gradient",
+      "storyId": "story_5",
+      "victim": {
+        "name": "Dr. Mira Kade",
+        "role": "program director and head evaluator",
+        "found": "collapsed at 01:12 beside the main demo stage after drinking ginger tea",
+        "cause": "aconitine poisoning"
+      },
+      "suspects": [
+        "Andrej",
+        "Nasko",
+        "Bojana",
+        "David",
+        "Oliver",
+        "Viktor",
+        "Vladimir",
+        "Jana"
+      ],
+      "suspectCount": 8,
+      "rounds": 2,
+      "eventCount": 110,
+      "hasEvaluation": true,
+      "trace": {
+        "sessionId": "The Silent Gradient - game_0025",
+        "tokens": 599794,
+        "cost": {
+          "input": 0.08783175,
+          "output": 0.0085494,
+          "total": 0.096381149991
+        },
+        "sessionDuration": 0.498,
+        "countTraces": 1,
+        "tags": [
+          "murder-mystery",
+          "multi-agent",
+          "rag"
+        ],
+        "createdAt": "2026-07-23T07:43:41.295Z"
+      }
+    },
+    {
+      "id": "game_0026",
+      "title": "The Silent Gradient",
+      "storyId": "story_5",
+      "victim": {
+        "name": "Dr. Mira Kade",
+        "role": "program director and head evaluator",
+        "found": "collapsed at 01:12 beside the main demo stage after drinking ginger tea",
+        "cause": "aconitine poisoning"
+      },
+      "suspects": [
+        "Andrej",
+        "Nasko",
+        "Bojana",
+        "David",
+        "Oliver",
+        "Viktor",
+        "Vladimir",
+        "Jana"
+      ],
+      "suspectCount": 8,
+      "rounds": 2,
+      "eventCount": 109,
+      "hasEvaluation": true,
+      "trace": {
+        "sessionId": "The Silent Gradient - game_0026",
+        "tokens": 648403,
+        "cost": {
+          "input": 0.1826307,
+          "output": 0.0538788,
+          "total": 0.236509499994
+        },
+        "sessionDuration": 1.509,
+        "countTraces": 2,
+        "tags": [
+          "murder-mystery",
+          "multi-agent",
+          "rag"
+        ],
+        "createdAt": "2026-07-23T08:05:25.117Z"
+      }
+    },
+    {
+      "id": "game_0027",
+      "title": "The Silent Gradient",
+      "storyId": "story_5",
+      "victim": {
+        "name": "Dr. Mira Kade",
+        "role": "program director and head evaluator",
+        "found": "collapsed at 01:12 beside the main demo stage after drinking ginger tea",
+        "cause": "aconitine poisoning"
+      },
+      "suspects": [
+        "Andrej",
+        "Nasko",
+        "Bojana",
+        "David",
+        "Oliver",
+        "Viktor",
+        "Vladimir",
+        "Jana"
+      ],
+      "suspectCount": 8,
+      "rounds": 3,
+      "eventCount": 144,
+      "hasEvaluation": true,
+      "trace": {
+        "sessionId": "The Silent Gradient - game_0027",
+        "tokens": 1051007,
+        "cost": {
+          "input": 0.20565435,
+          "output": 0.0356626,
+          "total": 0.24131694999
+        },
+        "sessionDuration": 0.665,
+        "countTraces": 1,
+        "tags": [
+          "murder-mystery",
+          "multi-agent",
+          "rag"
+        ],
+        "createdAt": "2026-07-23T09:01:49.821Z"
+      }
+    },
+    {
+      "id": "game_0028",
+      "title": "Pressure Drop",
+      "storyId": "story_6",
+      "victim": {
+        "name": "Dr. Soren Vale",
+        "role": "mission commander and safety director of Ares Meridian",
+        "found": "04:17 inside Airlock B after an automated pressure-loss alarm",
+        "cause": "fatal oxygen deprivation during an abnormal nitrogen-purge event; his EVA visor was broken during the apparent decompression accident"
+      },
+      "suspects": [
+        "Andrej",
+        "Nasko",
+        "Bojana",
+        "David",
+        "Oliver",
+        "Viktor",
+        "Vladimir",
+        "Jana"
+      ],
+      "suspectCount": 8,
+      "rounds": 5,
+      "eventCount": 252,
+      "hasEvaluation": true,
+      "trace": {
+        "sessionId": "Pressure Drop - game_0028",
+        "tokens": 3961339,
+        "cost": {
+          "input": 0.8474085,
+          "output": 0.0926258,
+          "total": 0.940034299969
+        },
+        "sessionDuration": 1.059,
+        "countTraces": 1,
+        "tags": [
+          "murder-mystery",
+          "multi-agent",
+          "rag"
+        ],
+        "createdAt": "2026-07-23T09:15:37.382Z"
+      }
+    },
+    {
+      "id": "game_0029",
+      "title": "Pressure Drop",
+      "storyId": "story_6",
+      "victim": {
+        "name": "Dr. Soren Vale",
+        "role": "mission commander and safety director of Ares Meridian",
+        "found": "04:17 inside Airlock B after an automated pressure-loss alarm",
+        "cause": "fatal oxygen deprivation during an abnormal nitrogen-purge event; his EVA visor was broken during the apparent decompression accident"
+      },
+      "suspects": [
+        "Andrej",
+        "Nasko",
+        "Bojana",
+        "David",
+        "Oliver",
+        "Viktor",
+        "Vladimir",
+        "Jana"
+      ],
+      "suspectCount": 8,
+      "rounds": 0,
+      "eventCount": 4,
+      "hasEvaluation": false,
+      "trace": {
+        "sessionId": "Pressure Drop - game_0029",
+        "tokens": 851,
+        "cost": {
+          "input": 0.00012765,
+          "output": 0,
+          "total": 0.00012765
+        },
+        "sessionDuration": 0.011,
+        "countTraces": 1,
+        "tags": [
+          "murder-mystery",
+          "multi-agent",
+          "rag"
+        ],
+        "createdAt": "2026-07-23T09:35:46.412Z"
+      }
+    },
+    {
+      "id": "game_0030",
+      "title": "Pressure Drop",
+      "storyId": "story_6",
+      "victim": {
+        "name": "Dr. Soren Vale",
+        "role": "mission commander and safety director of Ares Meridian",
+        "found": "04:17 inside Airlock B after an automated pressure-loss alarm",
+        "cause": "fatal oxygen deprivation during an abnormal nitrogen-purge event; his EVA visor was broken during the apparent decompression accident"
+      },
+      "suspects": [
+        "Andrej",
+        "Nasko",
+        "Bojana",
+        "David",
+        "Oliver",
+        "Viktor",
+        "Vladimir",
+        "Jana"
+      ],
+      "suspectCount": 8,
+      "rounds": 4,
+      "eventCount": 210,
+      "hasEvaluation": true,
+      "trace": {
+        "sessionId": "Pressure Drop - game_0030",
+        "tokens": 2133087,
+        "cost": {
+          "input": 0.46303985,
+          "output": 0.0683108,
+          "total": 0.531350649985
+        },
+        "sessionDuration": 0.9,
+        "countTraces": 1,
+        "tags": [
+          "murder-mystery",
+          "multi-agent",
+          "rag"
+        ],
+        "createdAt": "2026-07-23T09:50:43.788Z"
+      }
+    }
+  ]
+}

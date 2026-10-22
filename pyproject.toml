@@ -1,0 +1,21 @@
+[project]
+name = "week-9"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = "==3.11.15"
+dependencies = [
+    "chromadb==1.5.9",
+    "langchain-community==0.4.2",
+    "langchain-text-splitters==1.1.2",
+    "langfuse==4.14.1",
+    "litellm==1.93.0",
+    "notebook==7.6.0",
+    "pymupdf==1.28.0",
+    "pypdf==6.14.2",
+    "python-dotenv==1.0",
+    "pyyaml==6.0",
+    "sentence-transformers==5.6.0",
+    "strands-agents[openai,otel]==1.48.0",
+    "strands-agents-tools==0.8.4",
+]

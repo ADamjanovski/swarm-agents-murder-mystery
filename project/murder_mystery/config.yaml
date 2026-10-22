@@ -1,0 +1,28 @@
+stories_dir: stories
+games_dir: games
+
+seed: null  
+
+max_rounds: 2
+tool_calls_per_round: 4
+statement_max_chars: 900 
+plant_budget: 2
+max_retries: 3
+
+retrieval_top_k: 4
+embedding_model: sentence-transformers/all-MiniLM-L6-v2
+embedding_max_seq_length: 512
+chunk_size: 512
+chunk_overlap: 50
+
+model: openai/gpt-4o-mini
+temperature: 0.6
+max_tokens: 700
+judge_model: openai/gpt-4.1
+judge_max_tokens: 5000
+judge_max_retries: 2
+parallel_tool_calls: false
+llm_min_interval_seconds: 10
+api_backoff_base_seconds: 2
+api_max_delay_seconds: 30
+api_max_total_wait_seconds: 1800
